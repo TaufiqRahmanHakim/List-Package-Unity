@@ -1,56 +1,46 @@
-# List-Package-unity
-Rangkuman List Package Unity
+# Rangkuman Package Unity
 
-# Untuk AI:
+Berikut adalah rangkuman dari beberapa package Unity yang dapat digunakan untuk berbagai aspek dalam pengembangan game.
 
-NavMesh Components: Untuk navigasi karakter AI.
+## AI
 
-Emerald AI: AI yang lebih kompleks dengan banyak opsi tindakan dan perilaku.
+- **NavMesh Components**: Untuk navigasi karakter AI.
+- **Emerald AI**: AI yang lebih kompleks dengan banyak opsi tindakan dan perilaku.
+- **Rival {R} Perception**: Dukungan untuk visi AI, pendengaran, dll.
+- **ML-Agents Toolkit**: Dari Unity sendiri, untuk machine learning.
 
-Rival {R} Perception: Dukungan untuk visi AI, pendengaran, dll.
+## Grafis dan Visual
 
-ML-Agents Toolkit: Dari Unity sendiri, untuk machine learning.
+- **Shader Graph**: Untuk membuat shader secara visual.
+- **Post Processing Stack**: Untuk efek visual pascaproses.
+- **Cinemachine**: Untuk kamera sinematik dan peningkatan visual.
 
-Grafis dan Visual:
+## UI dan UX
 
-Shader Graph: Untuk membuat shader secara visual.
+- **TextMeshPro**: Untuk teks lebih responsif dan berkualitas tinggi.
+- **Lean Touch**: Untuk input multi-touch.
+- **Unity UI Extensions**: Ekstensi tambahan untuk UI standar Unity.
 
-Post Processing Stack: Untuk efek visual pascaproses.
+## Fisika dan Interaksi
 
-Cinemachine: Untuk kamera sinematik dan peningkatan visual.
+- **Obi Fluid**: Simulasi fluida fisika yang realistis.
+- **Realistic Car Controller**: Untuk simulasi mobil yang lebih realistis.
+- **Final IK**: Inverse Kinematics yang kompleks.
 
-# UI dan UX:
+## Jaringan dan Multiplayer
 
-TextMeshPro: Untuk teks lebih responsif dan berkualitas tinggi.
+- **Photon Unity Networking (PUN)**: Untuk fitur multiplayer.
+- **Mirror**: Alternatif untuk networking yang lebih sederhana namun powerful.
 
-Lean Touch: Untuk input multi-touch.
+## Asset Management
 
-Unity UI Extensions: Ekstensi tambahan untuk UI standar Unity.
+- **Addressables**: Manajemen asset yang lebih baik dan efisien.
+- **Odin Inspector**: Untuk meningkatkan Inspector Unity.
 
-Fisika dan Interaksi:
+## Lain-lain
 
-Obi Fluid: Simulasi fluida fisika yang realistis.
+- **DOTween**: Tweening engine untuk animasi yang lebih mudah dan efisien.
+- **ProBuilder**: Untuk modeling langsung di dalam Unity.
+- **Terrain Composer 2**: Untuk membuat terrain yang lebih kompleks.
 
-Realistic Car Controller: Untuk simulasi mobil yang lebih realistis.
-
-Final IK: Inverse Kinematics yang kompleks.
-
-# Jaringan dan Multiplayer:
-
-Photon Unity Networking (PUN): Untuk fitur multiplayer.
-
-Mirror: Alternatif untuk networking yang lebih sederhana namun powerfull.
-
-Asset Management:
-
-Addressables: Manajemen asset yang lebih baik dan efisien.
-
-Odin Inspector: Untuk meningkatkan Inspector Unity.
-
-# Lain-lain:
-
-DOTween: Tweening engine untuk animasi yang lebih mudah dan efisien.
-
-ProBuilder: Untuk modeling langsung di dalam Unity.
-
-Terrain Composer 2: Untuk membuat terrain yang lebih kompleks.
+Silakan pilih package yang sesuai dengan kebutuhan proyek Anda dan mengintegrasikannya ke dalam pengembangan game Anda.
