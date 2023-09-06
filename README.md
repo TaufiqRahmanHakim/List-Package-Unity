@@ -42,5 +42,3 @@ Berikut adalah rangkuman dari beberapa package Unity yang dapat digunakan untuk 
 - **DOTween**: Tweening engine untuk animasi yang lebih mudah dan efisien.
 - **ProBuilder**: Untuk modeling langsung di dalam Unity.
 - **Terrain Composer 2**: Untuk membuat terrain yang lebih kompleks.
-
-Silakan pilih package yang sesuai dengan kebutuhan proyek Anda dan mengintegrasikannya ke dalam pengembangan game Anda.
